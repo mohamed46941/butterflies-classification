@@ -27,5 +27,3 @@ This project is a **Deep Learning model** for classifying **75 species of butter
 
 * **Accuracy:** \~90%
 * Excellent performance on most butterfly species!
-
-تحب أجهزلك نسخة **قصيرة جدًا (جملة أو اتنين)** تنفع كـ Description للـ repo نفسه (اللي بيظهر تحت العنوان مباشرة)؟
